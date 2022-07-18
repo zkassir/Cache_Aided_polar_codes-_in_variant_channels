@@ -1,0 +1,43 @@
+
+user: 4
+
+user: 4
+
+user: 4
+8,	0.495623
+
+user: 4
+8,	0.495552
+
+user: 4
+
+user: 4
+
+user: 4
+8,	0.495983
+8.5,	0.495176
+9,	0.49364
+
+user: 4
+
+user: 4
+
+user: 4
+
+user: 4
+
+user: 4
+
+user: 4
+
+user: 4
+
+user: 4
+
+user: 4
+
+user: 4
+
+user: 4
+
+user: 4
